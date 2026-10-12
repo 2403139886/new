@@ -1,0 +1,6 @@
+# 根目录是创作素材库；网站实际使用的优化素材已位于 dist/assets。
+/*.MP4
+/*.JPG
+/site-deployment.tar.gz
+/dist/assets/hero-cut.mp4
+/node_modules/

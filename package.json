@@ -1,0 +1,7 @@
+{
+  "name": "personal-brand-site",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
